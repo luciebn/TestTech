@@ -1,0 +1,9 @@
+pandas
+os
+requests 
+beautifulsoup4
+matplotlib
+streamlit
+plotly
+numby
+seaborn
